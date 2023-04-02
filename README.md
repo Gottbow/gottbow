@@ -9,28 +9,30 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 - 📫 How to reach me **garyprado45@gmail.com**
 
-<br/>
+<br/><br/><br/>
 <div align="center">
+        <br/><br/>
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center"
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=7AA2F7FF&center=true&vCenter=true&width=435&&height=80&lines=LAnGuAGes+anD+ToOlS" />
     </a>
     <img src="https://skillicons.dev/icons?i=angular,arduino,github,cs,bash,swift,figma,bootstrap,html,java,css,php,firebase,java,aws"
         alt="lg"> <br>
-    <img src="https://skillicons.dev/icons?i=js,react,postman,kotlin" alt="lg"> <br>
+    <img src="https://skillicons.dev/icons?i=js,react,postman,kotlin" alt="lg"><br/>
 </div>
-<br/>
 
+<br/><br/>
 <div align="center">
     <img align='right' src="https://i.pinimg.com/originals/5d/b7/bd/5db7bd2f3b0d538e085374d1e6b36188.gif"  width="850"
     alt="gif"/></a>
+    <br/><br/>
    </div> 
-<br/>
 
+<br/>
 <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center"
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&pause=1000&color=7AA2F7FF&center=true&vCenter=true&width=435&&height=80&lines=My+StaTs" />
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&pause=1000&color=7AA2F7FF&center=true&vCenter=true&width=435&&height=100&lines=GotTbOw+StaTs" />
     </a>
 </div>
 
