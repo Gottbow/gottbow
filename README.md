@@ -10,16 +10,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 - 📫 How to reach me **garyprado45@gmail.com**
 
-<br />
-
+<br/>
 <div align="center">
-    <h2 align="center">Languages and Tools:</h2>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FBF1C7&center=true&vCenter=true&width=435&&height=80&lines=LAnGuAGes+anD+ToOlS" />
+    </a>
     <img src="https://skillicons.dev/icons?i=angular,arduino,github,cs,bash,swift,figma,bootstrap,html,java,css,php,firebase,java,aws"
         alt="lg"> <br>
     <img src="https://skillicons.dev/icons?i=js,react,postman,kotlin" alt="lg"> <br>
 </div>
+<br/>
 
-<h2 align="center">My Stats:</h2>
+<div align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&pause=1000&color=FBF1C7&center=true&vCenter=true&width=435&&height=80&lines=My+StaTs" />
+    </a>
+</div>
+
+
 
 [![Ashutosh's github activity
 graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gottbow&theme=xcode&radius=16&height=350&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
