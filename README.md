@@ -2,7 +2,7 @@
     alt="gottbow's card" width="400"/></a>
 
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=fbf1c7&width=450&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=fbf1c7&width=400&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Vue, Swift, C++ & Kotlin
 
