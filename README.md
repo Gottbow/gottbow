@@ -1,10 +1,48 @@
-[![MasterHead](https://images.wallpaperscraft.com/image/single/girl_glance_chair_232616_1280x720.jpg)]
-<h1 align="center">WelComE tO GotTbOW's PrOFilE</h1>
+<img align='right' src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"
+    alt="gottbow's card" /></a>
+
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1000&color=fbf1c7&width=485&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning Vue, Swift, C++ & Kotlin
 
 - 💬 Ask me about **react, angular, javascript**
 
 - 📫 How to reach me **garyprado45@gmail.com**
+
+<br />
+
+<div align="center">
+    <h2 align="center">Languages and Tools:</h2>
+    <img src="https://skillicons.dev/icons?i=angular,arduino,github,cs,bash,swift,figma,bootstrap,html,java,css,php,firebase,java,aws"
+        alt="lg"> <br>
+    <img src="https://skillicons.dev/icons?i=js,react,postman,kotlin" alt="lg"> <br>
+</div>
+
+<h2 align="center">My Stats:</h2>
+
+[![Ashutosh's github activity
+graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gottbow&theme=xcode&radius=16&height=350&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=gottbow&theme=gruvbox&hide_border=true&card_width=800&border_radius=8&include_all_commits=false&count_private=false" />
+    </a>
+</div>
+<br/>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=gottbow&theme=gruvbox&&border_radius=8&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottbow&theme=gruvbox&hide_border=true&border_radius=8&include_all_commits=false&count_private=false&layout=default" />
+    </a>
+</div>
+
+
 
 <h2 align="center">Connect with me :) :</h2>
 <p align="center">
@@ -18,69 +56,3 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
             alt="gottbow" height="30" width="40" /></a>
 </p>
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-            alt="angularjs" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"
-            height="40" /> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" /> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
-            height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-        href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
-            width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-            height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /> </a> <a
-        href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://developer.apple.com/swift/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-            width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
-            height="40" /> </a> </p>
-
-
-<h2 align="center">My Stats:</h2>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gottbow&theme=merko&radius=16&height=350&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](https://github-readme-stats.vercel.app/api?username=gottbow&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gottbow&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gottbow&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
