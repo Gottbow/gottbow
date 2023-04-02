@@ -11,7 +11,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 <br/><br/>
 <div align="center">
-        <br/><br/>
+        <br/>
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center"
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=7AA2F7FF&center=true&vCenter=true&width=435&&height=80&lines=LAnGuAGes+anD+ToOlS" />
