@@ -1,8 +1,8 @@
 <img align='right' src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"
-    alt="gottbow's card" width="300"/></a>
+    alt="gottbow's card" width="350"/></a>
 
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1000&color=fbf1c7&width=485&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=fbf1c7&width=485&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Vue, Swift, C++ & Kotlin
 
