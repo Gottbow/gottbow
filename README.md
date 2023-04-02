@@ -1,5 +1,4 @@
-<img align='right' src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC"
-    alt="gottbow's card" width="450"/></a>
+<img align='right' src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC" alt="gottbow's card" width="400"/></a>
 
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=7AA2F7FF&width=380&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
