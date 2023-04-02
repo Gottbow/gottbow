@@ -9,7 +9,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 - 📫 How to reach me **garyprado45@gmail.com**
 
-<br/><br/><br/>
+<br/><br/>
 <div align="center">
         <br/><br/>
         <a href="https://github.com/anuraghazra/github-readme-stats">
