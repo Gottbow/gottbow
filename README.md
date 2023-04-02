@@ -1,8 +1,8 @@
-<img align='right' src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"
+<img align='right' src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC"
     alt="gottbow's card" width="450"/></a>
 
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=fbf1c7&width=380&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=7AA2F7FF&width=380&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Vue, Swift, C++ & Kotlin
 
@@ -14,7 +14,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center"
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FBF1C7&center=true&vCenter=true&width=435&&height=80&lines=LAnGuAGes+anD+ToOlS" />
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=7AA2F7FF&center=true&vCenter=true&width=435&&height=80&lines=LAnGuAGes+anD+ToOlS" />
     </a>
     <img src="https://skillicons.dev/icons?i=angular,arduino,github,cs,bash,swift,figma,bootstrap,html,java,css,php,firebase,java,aws"
         alt="lg"> <br>
@@ -31,7 +31,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center"
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&pause=1000&color=FBF1C7&center=true&vCenter=true&width=435&&height=80&lines=My+StaTs" />
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&pause=1000&color=7AA2F7FF&center=true&vCenter=true&width=435&&height=80&lines=My+StaTs" />
     </a>
 </div>
 
