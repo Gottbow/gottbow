@@ -5,7 +5,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 - 🌱 I’m currently learning Vue, Swift, C++ & Kotlin
 
-- 💬 Ask me about **react, angular, javascript**
+- 💬 Ask me about react, angular, javascript
 
 - 📫 How to reach me **garyprado45@gmail.com**
 
