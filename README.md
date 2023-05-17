@@ -18,7 +18,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
     </a>
     <img src="https://skillicons.dev/icons?i=arduino,github,cs,bash,figma,bootstrap,postman,css,php,firebase,java,aws"
         alt="lg"> <br>
-    <img src="https://skillicons.dev/icons?i=angular,react,html,js,kotlin,swift" alt="lg"><br/>
+    <img src="https://skillicons.dev/icons?i=angular,react,html,js,kotlin,swift,linux" alt="lg"><br/>
 </div>
 
 <br/><br/>
