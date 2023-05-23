@@ -44,7 +44,7 @@ graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gottbow&th
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=gottbow&theme=tokyonight&hide_border=true&card_width=600&border_radius=8&include_all_commits=false&count_private=false" />
+           src="https://github-readme-stats.vercel.app/api?username=gottbow&theme=tokyonight&hide_border=true&card_width=600&border_radius=8&include_all_commits=false&count_private=false" />
     </a>
 </div>
 <br/>
