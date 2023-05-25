@@ -3,7 +3,7 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=7AA2F7FF&width=380&height=100&lines=HI%2C+I'm+GotTbOw)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Vue, Swift, C++ & Kotlin
+- 🌱 I’m currently learning Cybersecurity, Swift, C++ & Kotlin
 
 - 💬 Ask me about react, angular, javascript, css
 
