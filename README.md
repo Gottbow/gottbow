@@ -36,9 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
     </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gottbow&bg_color=151628&color=a8b1d6&line=7ca3f8&point=c09eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gottbow&theme=tokyonight&radius=16&height=350&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gottbow&theme=tokyo-night&radius=16&height=350&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
