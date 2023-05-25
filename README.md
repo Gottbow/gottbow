@@ -61,15 +61,4 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
     </a>
 </div>
 
-<h2 align="center">Connect with me :)</h2>
-<p align="center">
-    <a href="https://linkedin.com/in/gottbow" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="gottbow" height="30" width="40" /></a>
-    <a href="https://instagram.com/screhy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="screhy" height="30" width="40" /></a>
-    <a href="https://www.behance.net/gottbow" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-            alt="gottbow" height="30" width="40" /></a>
 </p>
