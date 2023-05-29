@@ -16,7 +16,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
         <img align="center"
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=7AA2F7FF&center=true&vCenter=true&width=435&&height=80&lines=LAnGuAGes+anD+ToOlS" />
     </a>
-    <img src="https://skillicons.dev/icons?i=arduino,github,cs,bash,aws,postman,bootstrap,figma,css,firebase,java"
+    <img src="https://skillicons.dev/icons?i=arduino,github,cs,bash,postman,aws,bootstrap,figma,css,firebase,java"
         alt="lg"> <br>
     <img src="https://skillicons.dev/icons?i=angular,react,html,js,kotlin,swift,linux" alt="lg"><br/>
 </div>
