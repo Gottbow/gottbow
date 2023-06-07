@@ -54,8 +54,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 </div>
 <br/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gottbow&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gottbow&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+    
     <a href="https://github.com/anuraghazra/convoychat">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottbow&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=false&count_private=false&layout=default" />
