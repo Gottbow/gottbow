@@ -54,7 +54,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 </div>
 <br/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gottbow&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gottbow)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
     
     <a href="https://github.com/anuraghazra/convoychat">
