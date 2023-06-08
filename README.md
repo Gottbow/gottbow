@@ -52,5 +52,11 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 </div>
 <br/>
+<div align="center">
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottbow&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=false&count_private=false&layout=default" />
+    </a>
+</div>
 
 </p>
