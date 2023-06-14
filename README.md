@@ -7,7 +7,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 - 💬 Ask me about react, angular, javascript, css
 
-- 📫 How to reach me **garyprado45@gmail.com**
+- 📫 How to reach me **screhy@hotmail.com**
 
 <br/><br/>
 <div align="center">
