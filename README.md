@@ -5,7 +5,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pau
 
 - 🌱 I’m currently learning Cybersecurity, Swift, C++ and Kotlin
 
-- 💬 Ask me about React, Angular, Javascript, web Develpment 
+- 💬 Ask me about React, Angular, JS & Web Develpment 
 
 - 📫 How to reach me **screhy@hotmail.com**
 
